@@ -46,3 +46,10 @@ This is an MVC-based **E-Commerce web application** built with **Node.js**, **Ex
    ```bash
    npm test
    ```
+   
+##  Authors
+
+Developed by [eman,hana,roaa,eman].  
+
+
+
